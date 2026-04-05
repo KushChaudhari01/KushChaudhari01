@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 - 🔭 I'm currently working on exciting projects that push the boundaries of technology
 - 🌱 I'm continuously learning and exploring new technologies and frameworks
 - 💬 Ask me about software development, coding best practices, and problem-solving
-- 📫 How to reach me: [Add your contact information here]
-- ⚡ Fun fact: [Share something interesting about yourself!]
+- 📫 How to reach me: [kushtileshchaudhari5@gmail.com]
 
 ## 💻 Tech Stack
 
@@ -30,30 +29,11 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 - Cloud Services
 - Agile Development
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KushChaudhari01&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KushChaudhari01&layout=compact&theme=dark)
-
-## 🏆 Featured Projects
-
-### Project Name 1
-- 📝 Description: Brief description of what this project does
-- 🔗 [View Repository](https://github.com/KushChaudhari01/project-name-1)
-- 📌 Key technologies: Tech 1, Tech 2, Tech 3
-
-### Project Name 2
-- 📝 Description: Brief description of what this project does
-- 🔗 [View Repository](https://github.com/KushChaudhari01/project-name-2)
-- 📌 Key technologies: Tech 1, Tech 2, Tech 3
-
 ## 🤝 Connect With Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Twitter**: [@your_twitter](https://twitter.com/your_twitter)
-- **Email**: your.email@example.com
-- **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)
+- **LinkedIn**: [Kush Chaudhari](www.linkedin.com/in/kush-chaudhari-b84438374)
+- **Twitter**: [@KushChaudhari_](https://x.com/KushChaudhari_)
+- **Email**: kushtileshchaudhari5@gmail.com
 
 ## 📈 What I'm Working On
 
