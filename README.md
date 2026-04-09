@@ -67,16 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KushChaudhari01&show_icons=true&theme=tokyonight" alt="Kush's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushChaudhari01&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Languages Spoken
 
 🇬🇧 English &nbsp; | &nbsp; 🇮🇳 Hindi &nbsp; | &nbsp; 🇮🇳 Marathi
